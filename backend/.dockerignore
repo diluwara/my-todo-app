@@ -1,0 +1,20 @@
+# Node.js modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Temporary files
+tmp
+*.tmp
+
+# Docker-related files
+Dockerfile
+docker-compose.yml
+
+# Git
+.git
+.gitignore
